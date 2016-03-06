@@ -1,0 +1,11 @@
+{
+    "email_check_interval" : 5,
+    "email_host" : "<IMAP SERVER ADDRESS>",
+    "email_port" : 993,
+    "email_input_folder" : "INBOX",
+    "email_user" : "<IMAP USER>",
+    "email_password" : "<IMAP PASSWORD>",
+    "transmission_user" : "<TRANSMISSION USER>",
+    "transmission_password" : "<TRANSMISSION PASSWORD>",
+    "transmission_host" : "<TRANSMISSION HOST (for example: http://192.168.1.238:9091 )>"
+}
