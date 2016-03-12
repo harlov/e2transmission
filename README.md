@@ -7,3 +7,14 @@ Python daemon, what check email box(over IMAP) for new messages with torrents fi
 1. `pip install e2transmission`
 2. configure `/etc/e2transmission.json` - pass you email and daemon settings
 3. `e2transmission-cli start` - run daemon
+
+## Contacts
+[send email][email]
+
+[twitter][twitter]
+
+[personal blog][blog]
+
+[twitter]: https://twitter.com/harlov
+[blog]: https://blog.harlov.com
+[email]: mailto:nikita@harlov.com
